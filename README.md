@@ -81,25 +81,32 @@ The losses settle around D ≈ 1.386 (2·ln 2) and G ≈ 0.693 (ln 2). This mean
 ### Output Figures
 
 **Model size**
-![Model parameters](results/model_parameters.png)
+
+![Model parameters](results/results/model_parameters.png)
 
 **Training log (10 epochs)**
-![Training log](results/training_log.png)
+
+![Training log](results/results/training_log.png)
 
 **Real CIFAR-10 samples**
-![Real samples](results/real_samples.png)
+
+![Real samples](results/results/real_samples.png)
 
 **Training losses**
-![Training losses](results/training_losses.png)
+
+![Training losses](results/results/training_losses.png)
 
 **Generated samples after training**
-![Generated samples](results/generated_samples.png)
+
+![Generated samples](results/results/generated_samples.png)
 
 **Style mixing**
-![Style mixing](results/style_mixing.png)
+
+![Style mixing](results/results/style_mixing.png)
 
 **Latent interpolation**
-![Latent interpolation](results/latent_interpolation.png)
+
+![Latent interpolation](results/results/latent_interpolation.png)
 
 ---
 
